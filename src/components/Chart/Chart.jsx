@@ -17,7 +17,7 @@ fetchAPI();
 });
 
 const lineChart = (
-    dailyData.length
+    Array.isArray(dailyData)&& dailyData.length
     ? (
 <Line
 data={{

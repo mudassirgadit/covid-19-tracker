@@ -1,3 +1,7 @@
+Covid-19 Tracker App React JS
+
+Live Demo : http://covid-19-tracker-mudassir-gadit.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
